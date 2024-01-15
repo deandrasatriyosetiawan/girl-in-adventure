@@ -1,4 +1,5 @@
 ![](https://github.com/deandrasatriyosetiawan/girl-in-adventure/blob/main/Girl_in_Adventure.png)
+Cover MacBook Design by [DesignFrames](https://deviceframes.com/)
 # GiA - Girl in Adventure 🎮
 ## Description
 This repository contains a desktop game project that is the result of my and my beloved partner's final project for the Game Design and Development course. The game is called Girl in Adventure, or GiA for short. Girl in Adventure is a 3D adventure game with elements of fighting and nature. It offers an immersive experience of exploring and overcoming obstacles in a 3D adventure with a skilled girl character proficient in martial arts. All assets in the game, such as characters, trees, and the sea, were obtained for free from the Unity asset store. Built using the C# programming language and Unity, the game is designed to provide entertainment and challenges to its players.
